@@ -14,7 +14,7 @@
 # -invert (Invert ascii frames)
 #------------------------------------------------------------------------------------------- 
 
-i=1; fps=20; makeWav=0, runGenerator=0
+i=1; fps=20; makeWav=0; runGenerator=0
 generatorFlags=""; playerFlags=""
 
 for input in "$@";
