@@ -5,8 +5,9 @@ Flags (Should be used with run.sh)
 -----------------------------------------------------------------------------------------------------------------------------------
 If you want a new video made:
 
-``-fps {fps for video}`` (An example input would be numbers 1-60) (Used for video flag) 
+``-fps {fps for video}`` (An example input would be numbers 1-60) (Used for video flag and for generator) 
 - Determines how many frames are extracted per second of the video, this flag needs to be behind the -video flag (by default this flag is set to 20)
+- This is used to determine the default speed, so if you're triggering the generator you should make sure to have this flag.
 
 ``-wav`` (Used as player flag and for video flag)
 - If put behind video flag it will create a sound file for your video called newSound.wav and play it once the video loads.
