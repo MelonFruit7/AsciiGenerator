@@ -1,6 +1,8 @@
 # AsciiGenerator
 A cool video to ascii-video generator
 
+![Example](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZrZGRrOXl2dHFmaGVrempua3FnampmOWh6cTh2d3ZuN2oxaTZ4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xuf5KafTGTIeFM6ZNd/giphy.gif)
+
 Flags (Should be used with run.sh)
 -----------------------------------------------------------------------------------------------------------------------------------
 If you want a new video made:
